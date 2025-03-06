@@ -36,10 +36,15 @@ $ git add .
 $ git commit -m "notes file of the mtb training is added"
 // git creates an objecxt that will include all the files to be uploadedand also it is secured (encroption)
 
+$ 
+
 //To make our computer recognize our git git account, we must run these 2 configurtion
 git config --global user.name "bharath12p"
 git config --global user.email "bharath2004bp@gmail.com"
 
 steps to create an new pat in github:
 go to settings -> next window-> scroll down left bottom corner-> developer settings -> top left -> click personal access token.
+
+
+
 
