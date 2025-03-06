@@ -1,0 +1,45 @@
+MTD COMPETITIVE PROGRAMMING TRAINING
+
+DAY 1 THURSDAY 06-03-2025
+
+CREATING A NEW REPO IN GIT
+
+-CREATE NEW REPO
+-GIVE A NAME FOR REPO
+-GIVE A SUITABLE DESCRIPTION
+-CHECK ADD README FILE BOX
+
+-ctrl u for lowercase
+-ctrl shift u for uppercase
+-CTRL PLUS ANYTHING USES A WHOLE WORD
+cd for changing drectory
+
+
+IMPORTANT GIT COMMANDS
+
+$ git status
+//To know the current status of our repo
+
+$ git clone https://github.com/chethankashyap24/mtd_c_py
+// to download a repo with example
+
+$ git pull origin main
+//Command to download the updated repo from server to local machine
+
+$ git clone <PAT><URL>
+//to access pat
+
+commands required to upload files from local repo to remote:
+$ git add .
+//git will mark all the files that needed to be updated 
+
+$ git commit -m "notes file of the mtb training is added"
+// git creates an objecxt that will include all the files to be uploadedand also it is secured (encroption)
+
+//To make our computer recognize our git git account, we must run these 2 configurtion
+git config --global user.name "bharath12p"
+git config --global user.email "bharath2004bp@gmail.com"
+
+steps to create an new pat in github:
+go to settings -> next window-> scroll down left bottom corner-> developer settings -> top left -> click personal access token.
+
