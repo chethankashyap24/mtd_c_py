@@ -39,12 +39,37 @@ $ git commit -m "notes file of the mtb training is added"
 $ 
 
 //To make our computer recognize our git git account, we must run these 2 configurtion
-git config --global user.name "bharath12p"
-git config --global user.email "bharath2004bp@gmail.com"
+git config --global user.name "chethankashyap24"
+git config --global user.email "chethanvenugopal@gmail.com@gmail.com"
 
 steps to create an new pat in github:
 go to settings -> next window-> scroll down left bottom corner-> developer settings -> top left -> click personal access token.
 
+Steps to run program in cmd
+gcc <progr_name.c>
+a.exe
 
+TYPE CASTING
+float num = 11/3;
+printf("%f", num);
+
+DAY-1
+
+--------------------------------------------------------------------------------------------------------------------------------------
+DAY-2
+
+Arithamatic operators: + - * / %
+All the binary operators
+I/p are numbeers
+O/P is a number
+Used with infix notation
+To perform any arithamatic operation, DT of both the operands must be same
+Left to right associtivity w.r.t reading the values/expressions
+For the calculation to happen, the user/programmer given infix expression must be converted to postfix.
+The operators have different hierarchy(precedence)
+--------------------------------------
+Relational Operators: > < == != >= <=
+
+for int i=1;
 
 
