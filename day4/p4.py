@@ -4,7 +4,6 @@ m = int(input('Enter the M value: (start value): '))
 n = int(input('Enter the N value: (End value): '))
 p = int(input('Enter the P value: (Increeement value): '))
 
-i = m
-while i <= n:
+for i in range(m,n,p):
     print(i, end=' ')
-    i = i+p
+    i += 2
