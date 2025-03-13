@@ -36,8 +36,6 @@ $ git add .
 $ git commit -m "notes file of the mtb training is added"
 // git creates an objecxt that will include all the files to be uploadedand also it is secured (encroption)
 
-$ 
-
 //To make our computer recognize our git git account, we must run these 2 configurtion
 git config --global user.name "chethankashyap24"
 git config --global user.email "chethanvenugopal@gmail.com@gmail.com"
@@ -71,5 +69,7 @@ The operators have different hierarchy(precedence)
 Relational Operators: > < == != >= <=
 
 for int i=1;
+
+DAY 3   08-03-2025
 
 
